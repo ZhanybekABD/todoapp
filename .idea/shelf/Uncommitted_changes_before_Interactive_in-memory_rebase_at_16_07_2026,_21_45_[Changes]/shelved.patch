@@ -1,0 +1,14 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>.env\nout\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 8032cf446f27f75f65b548cbbd569425eb95b002)
++++ b/.gitignore	(date 1784227393442)
+@@ -1,2 +1,3 @@
+ .env
+ out
++.idea/
